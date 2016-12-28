@@ -1,1 +1,3 @@
 It is changed from do_s --- 111
+modified by Andrey1
+
